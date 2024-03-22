@@ -11,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class SolutionTest {
 
     @Test
-    public void test() {
+    public void test_1() {
         String input = """
                 5
                 4 7 2 5 12

@@ -1,0 +1,15 @@
+/home/vango/sourcecode/HackerRank/c#/bin/Debug/net8.0/c#
+/home/vango/sourcecode/HackerRank/c#/bin/Debug/net8.0/c#.deps.json
+/home/vango/sourcecode/HackerRank/c#/bin/Debug/net8.0/c#.runtimeconfig.json
+/home/vango/sourcecode/HackerRank/c#/bin/Debug/net8.0/c#.dll
+/home/vango/sourcecode/HackerRank/c#/bin/Debug/net8.0/c#.pdb
+/home/vango/sourcecode/HackerRank/c#/obj/Debug/net8.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/vango/sourcecode/HackerRank/c#/obj/Debug/net8.0/c#.AssemblyInfoInputs.cache
+/home/vango/sourcecode/HackerRank/c#/obj/Debug/net8.0/c#.AssemblyInfo.cs
+/home/vango/sourcecode/HackerRank/c#/obj/Debug/net8.0/c#.csproj.CoreCompileInputs.cache
+/home/vango/sourcecode/HackerRank/c#/obj/Debug/net8.0/c#.sourcelink.json
+/home/vango/sourcecode/HackerRank/c#/obj/Debug/net8.0/c#.dll
+/home/vango/sourcecode/HackerRank/c#/obj/Debug/net8.0/refint/c#.dll
+/home/vango/sourcecode/HackerRank/c#/obj/Debug/net8.0/c#.pdb
+/home/vango/sourcecode/HackerRank/c#/obj/Debug/net8.0/c#.genruntimeconfig.cache
+/home/vango/sourcecode/HackerRank/c#/obj/Debug/net8.0/ref/c#.dll
